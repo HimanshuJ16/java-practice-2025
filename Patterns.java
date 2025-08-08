@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Patterns {
   public static void pattern1(int n) {
     // Example:
